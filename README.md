@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nabaruns
-- 👀 I’m interested in machine learning and system programming
+- 👀 I’m interested in machine learning and blockchain
 - 🌱 I’m currently learning more about vast computer science field 
 - 💞️ I’m looking to collaborate on Web3/AI/ML research
 - 📫 Mail me nabsarkar [at] gmail [dot] com
